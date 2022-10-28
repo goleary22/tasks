@@ -367,38 +367,40 @@ FAIL src/HtmlCss.test.tsx
               [36m</div>[39m
               [36m<div[39m
                 [33mclass[39m=[32m"form-check form-check-inline"[39m
+                [33mstyle[39m=[32m"background-color: magenta;"[39m
               [36m>[39m
                 [36m<input[39m
                   [33mclass[39m=[32m"form-check-input"[39m
                   [33mid[39m=[32m"color-options-radio-buttons"[39m
                   [33mname[39m=[32m"colors"[39m
                   [33mtype[39m=[32m"radio"[39m
-                  [33mvalue[39m=[32m"periwinkle"[39m
+                  [33mvalue[39m=[32m"magenta"[39m
                 [36m/>[39m
                 [36m<label[39m
                   [33mclass[39m=[32m"form-check-label"[39m
                   [33mfor[39m=[32m"color-options-radio-buttons"[39m
                   [33mtitle[39m=[32m""[39m
                 [36m>[39m
-                  [0mperiwinkle[0m
+                  [0mmagenta[0m
                 [36m</label>[39m
               [36m</div>[39m
               [36m<div[39m
                 [33mclass[39m=[32m"form-check form-check-inline"[39m
+                [33mstyle[39m=[32m"background-color: yellow;"[39m
               [36m>[39m
                 [36m<input[39m
                   [33mclass[39m=[32m"form-check-input"[39m
                   [33mid[39m=[32m"color-options-radio-buttons"[39m
                   [33mname[39m=[32m"colors"[39m
                   [33mtype[39m=[32m"radio"[39m
-                  [33mvalue[39m=[32m"sage green"[39m
+                  [33mvalue[39m=[32m"yellow"[39m
                 [36m/>[39m
                 [36m<label[39m
                   [33mclass[39m=[32m"form-check-label"[39m
                   [33mfor[39m=[32m"color-options-radio-buttons"[39m
                   [33mtitle[39m=[32m""[39m
                 [36m>[39m
-                  [0msage green[0m
+                  [0myellow[0m
                 [36m</label>[39m
               [36m</div>[39m
               [36m<div[39m
@@ -1137,38 +1139,40 @@ FAIL src/HtmlCss.test.tsx
               [36m</div>[39m
               [36m<div[39m
                 [33mclass[39m=[32m"form-check form-check-inline"[39m
+                [33mstyle[39m=[32m"background-color: magenta;"[39m
               [36m>[39m
                 [36m<input[39m
                   [33mclass[39m=[32m"form-check-input"[39m
                   [33mid[39m=[32m"color-options-radio-buttons"[39m
                   [33mname[39m=[32m"colors"[39m
                   [33mtype[39m=[32m"radio"[39m
-                  [33mvalue[39m=[32m"periwinkle"[39m
+                  [33mvalue[39m=[32m"magenta"[39m
                 [36m/>[39m
                 [36m<label[39m
                   [33mclass[39m=[32m"form-check-label"[39m
                   [33mfor[39m=[32m"color-options-radio-buttons"[39m
                   [33mtitle[39m=[32m""[39m
                 [36m>[39m
-                  [0mperiwinkle[0m
+                  [0mmagenta[0m
                 [36m</label>[39m
               [36m</div>[39m
               [36m<div[39m
                 [33mclass[39m=[32m"form-check form-check-inline"[39m
+                [33mstyle[39m=[32m"background-color: yellow;"[39m
               [36m>[39m
                 [36m<input[39m
                   [33mclass[39m=[32m"form-check-input"[39m
                   [33mid[39m=[32m"color-options-radio-buttons"[39m
                   [33mname[39m=[32m"colors"[39m
                   [33mtype[39m=[32m"radio"[39m
-                  [33mvalue[39m=[32m"sage green"[39m
+                  [33mvalue[39m=[32m"yellow"[39m
                 [36m/>[39m
                 [36m<label[39m
                   [33mclass[39m=[32m"form-check-label"[39m
                   [33mfor[39m=[32m"color-options-radio-buttons"[39m
                   [33mtitle[39m=[32m""[39m
                 [36m>[39m
-                  [0msage green[0m
+                  [0myellow[0m
                 [36m</label>[39m
               [36m</div>[39m
               [36m<div[39m
@@ -1492,5 +1496,5 @@ FAIL src/HtmlCss.test.tsx
 Test Suites: 1 failed, 21 passed, 22 total
 Tests:       1 failed, 141 passed, 142 total
 Snapshots:   0 total
-Time:        19.417 s
+Time:        13.343 s
 Ran all test suites.
