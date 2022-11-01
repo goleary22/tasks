@@ -701,6 +701,34 @@ FAIL src/HtmlCss.test.tsx
               [0mSt. Patricks Day: 🍀[0m
             [36m</span>[39m
           [36m</div>[39m
+          [36m<hr />[39m
+          [36m<div>[39m
+            [36m<div>[39m
+              [0mTwo Dice[0m
+            [36m</div>[39m
+            [36m<span[39m
+              [33mdata-testid[39m=[32m"left-die"[39m
+            [36m>[39m
+              [0m2[0m
+            [36m</span>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m"btn btn-primary"[39m
+              [33mtype[39m=[32m"button"[39m
+            [36m>[39m
+              [0mRoll Left[0m
+            [36m</button>[39m
+            [36m<span[39m
+              [33mdata-testid[39m=[32m"right-die"[39m
+            [36m>[39m
+              [0m5[0m
+            [36m</span>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m"btn btn-primary"[39m
+              [33mtype[39m=[32m"button"[39m
+            [36m>[39m
+              [0mRoll Right[0m
+            [36m</button>[39m
+          [36m</div>[39m
         [36m</div>[39m
       [36m</div>[39m
     [36m</body>[39m
@@ -1473,6 +1501,34 @@ FAIL src/HtmlCss.test.tsx
               [0mSt. Patricks Day: ��[0m
             [36m</span>[39m
           [36m</div>[39m
+          [36m<hr />[39m
+          [36m<div>[39m
+            [36m<div>[39m
+              [0mTwo Dice[0m
+            [36m</div>[39m
+            [36m<span[39m
+              [33mdata-testid[39m=[32m"left-die"[39m
+            [36m>[39m
+              [0m2[0m
+            [36m</span>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m"btn btn-primary"[39m
+              [33mtype[39m=[32m"button"[39m
+            [36m>[39m
+              [0mRoll Left[0m
+            [36m</button>[39m
+            [36m<span[39m
+              [33mdata-testid[39m=[32m"right-die"[39m
+            [36m>[39m
+              [0m5[0m
+            [36m</span>[39m
+            [36m<button[39m
+              [33mclass[39m=[32m"btn btn-primary"[39m
+              [33mtype[39m=[32m"button"[39m
+            [36m>[39m
+              [0mRoll Right[0m
+            [36m</button>[39m
+          [36m</div>[39m
         [36m</div>[39m
       [36m</div>[39m
     [36m</body>[39m
@@ -1496,5 +1552,5 @@ FAIL src/HtmlCss.test.tsx
 Test Suites: 1 failed, 21 passed, 22 total
 Tests:       1 failed, 141 passed, 142 total
 Snapshots:   0 total
-Time:        13.343 s
+Time:        13.668 s
 Ran all test suites.
